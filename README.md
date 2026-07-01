@@ -14,7 +14,7 @@ A modern login page built with HTML and CSS, featuring:
 
 ## Preview
 
-![Preview](preview-login-page.png)
+![Preview](images/preview-login-page.png)
 
 ## Technologies
 
